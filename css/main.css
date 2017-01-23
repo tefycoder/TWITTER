@@ -1,0 +1,38 @@
+#titulo{
+	background-color: #09dfbc;
+	width: 100%;
+	text-align: center;
+	padding: 15px 0;
+	font-size: 30px;
+	font-family: fantasy;
+}
+textarea{
+	border-radius: 5px;
+	width: 95%;
+	margin: 20px 0;
+}
+.nuevo{
+	background-color: #09dfbc;
+	margin: 15px 0;
+	padding: 15px 40px 15px 15px;
+	width: 100%;
+	height: auto;
+	word-wrap: break-word;
+	position: relative;
+	border-radius: 5px;
+}
+#contenedor{
+	margin: 15px 0;
+	height: 300px;
+	overflow-y: scroll;
+	overflow: auto;
+}
+.tachado{
+	text-decoration:line-through;
+}
+.icon{
+	cursor: pointer;
+	position: absolute;
+	right: 10px;
+	top: 40%;
+}
